@@ -65,7 +65,7 @@ published: true # 公開設定（falseにすると下書き）
 
 ### ステップ 2: 設定選択
 
-- 「Create New Agent」をクリック
+- 「Create New Agent」を選択
 
 ![Create New Agent選択](/images/claude-code-sub-agent/create-new-agent.png)
 
@@ -79,9 +79,12 @@ published: true # 公開設定（falseにすると下書き）
 
 ### ステップ 3: 詳細設定
 
-- どんな専門家にしたいかを日本語で説明
+- どんな専門家にしたいかを説明
 
 ![詳細説明](/images/claude-code-sub-agent/describe.png)
+
+- 入力して enter で生成してくれます
+
 ![作成中](/images/claude-code-sub-agent/describe-creating-agent.png)
 
 - 使わせるツールを選択
